@@ -5,11 +5,12 @@
 newarkbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Newark Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://newarkbankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Newark: Red Flags and What to Watch For: https://newarkbankruptcymill.com/chapter-13-newark.html
 - Chapter 7 Bankruptcy in Newark: Costs, Timeline and What to Know: https://newarkbankruptcymill.com/chapter-7-newark.html
 - How to Check Your Newark Bankruptcy Attorney's Track Record: https://newarkbankruptcymill.com/how-to-check.html
+- Newark Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://newarkbankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Newark: https://newarkbankruptcymill.com/warning-signs.html
+- Privacy Policy: https://newarkbankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
